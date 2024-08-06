@@ -11,9 +11,9 @@
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 <br>
 
-# Sumário da Aula: Git - Comandos Essenciais e Resolução de Conflitos
+## Sumário: Git - Comandos Essenciais e Resolução de Conflitos
 
-# 1. Configuração Inicial e Básica
+### 1. Configuração Inicial e Básica
 
 | Comando                                 | Descrição                                                    |
 |-----------------------------------------|--------------------------------------------------------------|
@@ -21,14 +21,14 @@
 | `git config --global user.email "seuemail@example.com"` | Define o e-mail para commits.                              |
 | `git config --list`                     | Exibe configurações atuais do Git.                           |
 
-# 2. Trabalhando com Repositórios
+### 2. Trabalhando com Repositórios
 
 | Comando                                 | Descrição                                                    |
 |-----------------------------------------|--------------------------------------------------------------|
 | `git clone https://github.com/usuario/repo.git` | Copia um repositório remoto para o local.                    |
 | `git init`                             | Inicializa um novo repositório Git vazio.                    |
 
-# 3. Monitorando Alterações
+### 3. Monitorando Alterações
 
 | Comando                                 | Descrição                                                    |
 |-----------------------------------------|--------------------------------------------------------------|
@@ -36,7 +36,7 @@
 | `git log`                              | Exibe o histórico dos commits.                               |
 | `git diff`                             | Mostra diferenças entre arquivos modificados e a última versão comitada. |
 
-# 4. Alterações e Commits
+### 4. Alterações e Commits
 
 | Comando                                 | Descrição                                                    |
 |-----------------------------------------|--------------------------------------------------------------|
@@ -45,7 +45,7 @@
 | `git commit -m "Mensagem do commit"`   | Cria um commit com as alterações.                           |
 | `git commit`                           | Abre um editor para uma mensagem de commit mais detalhada.   |
 
-# 5. Trabalhando com Branches
+### 5. Trabalhando com Branches
 
 | Comando                                 | Descrição                                                    |
 |-----------------------------------------|--------------------------------------------------------------|
@@ -56,7 +56,7 @@
 | `git merge <nome-da-branch>`           | Mescla alterações de uma branch na branch atual.            |
 | `git branch -d <nome-da-branch>`       | Exclui uma branch local.                                    |
 
-# 6. Sincronizando com o Repositório Remoto
+### 6. Sincronizando com o Repositório Remoto
 
 | Comando                                 | Descrição                                                    |
 |-----------------------------------------|--------------------------------------------------------------|
@@ -65,7 +65,7 @@
 | `git pull origin <nome-da-branch>`     | Baixa e mescla alterações do remoto.                        |
 | `git remote -v`                        | Exibe URLs dos repositórios remotos associados.              |
 
-# 7. Gerenciamento de Commits
+### 7. Gerenciamento de Commits
 
 | Comando                                 | Descrição                                                    |
 |-----------------------------------------|--------------------------------------------------------------|
@@ -74,7 +74,7 @@
 | `git revert <hash-do-commit>`           | Cria um novo commit que reverte as mudanças de um commit específico. |
 | `git commit --amend`                    | Modifica o último commit.                                   |
 
-# 8. Resolução de Conflitos
+### 8. Resolução de Conflitos
 
 | Comando                                 | Descrição                                                    |
 |-----------------------------------------|--------------------------------------------------------------|
@@ -84,7 +84,7 @@
 | `git add <arquivo>`                    | Adiciona arquivos após resolver os conflitos.               |
 | `git commit`                           | Cria um commit que inclui a resolução dos conflitos.        |
 
-# 9. Outras Operações Úteis
+### 9. Outras Operações Úteis
 
 | Comando                                 | Descrição                                                    |
 |-----------------------------------------|--------------------------------------------------------------|
