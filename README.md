@@ -14,6 +14,8 @@
 ## Sumário: Git - Comandos Essenciais e Resolução de Conflitos
 
 ### 1. Configuração Inicial e Básica
+[![Ver Página](https://img.shields.io/badge/Ver%20Página-FFFFFF?style=for-the-badge&logo=github&logoColor=000)](https://github.com/Daniel-da-Silva-Alves/Versionamento-de-codigo-com-Git-e-Github/blob/main/Arquivos/pagina_1.md)
+
 
 | Comando                                 | Descrição                                                    |
 |-----------------------------------------|--------------------------------------------------------------|
@@ -22,6 +24,7 @@
 | `git config --list`                     | Exibe configurações atuais do Git.                           |
 
 ### 2. Trabalhando com Repositórios
+[![Ver Página](https://img.shields.io/badge/Ver%20Página-FFFFFF?style=for-the-badge&logo=github&logoColor=000)]([LINK_AQUI](https://github.com/Daniel-da-Silva-Alves/Versionamento-de-codigo-com-Git-e-Github/blob/main/Arquivos/pagina_2.md))
 
 | Comando                                 | Descrição                                                    |
 |-----------------------------------------|--------------------------------------------------------------|
@@ -29,6 +32,7 @@
 | `git init`                             | Inicializa um novo repositório Git vazio.                    |
 
 ### 3. Monitorando Alterações
+[![Ver Página](https://img.shields.io/badge/Ver%20Página-FFFFFF?style=for-the-badge&logo=github&logoColor=000)](https://github.com/Daniel-da-Silva-Alves/Versionamento-de-codigo-com-Git-e-Github/blob/main/Arquivos/pagina_3.md)
 
 | Comando                                 | Descrição                                                    |
 |-----------------------------------------|--------------------------------------------------------------|
@@ -37,6 +41,7 @@
 | `git diff`                             | Mostra diferenças entre arquivos modificados e a última versão comitada. |
 
 ### 4. Alterações e Commits
+[![Ver Página](https://img.shields.io/badge/Ver%20Página-FFFFFF?style=for-the-badge&logo=github&logoColor=000)](https://github.com/Daniel-da-Silva-Alves/Versionamento-de-codigo-com-Git-e-Github/blob/main/Arquivos/pagina_4.md)
 
 | Comando                                 | Descrição                                                    |
 |-----------------------------------------|--------------------------------------------------------------|
@@ -46,6 +51,7 @@
 | `git commit`                           | Abre um editor para uma mensagem de commit mais detalhada.   |
 
 ### 5. Trabalhando com Branches
+[![Ver Página](https://img.shields.io/badge/Ver%20Página-FFFFFF?style=for-the-badge&logo=github&logoColor=000)](https://github.com/Daniel-da-Silva-Alves/Versionamento-de-codigo-com-Git-e-Github/blob/main/Arquivos/pagina_5.md)
 
 | Comando                                 | Descrição                                                    |
 |-----------------------------------------|--------------------------------------------------------------|
@@ -57,6 +63,7 @@
 | `git branch -d <nome-da-branch>`       | Exclui uma branch local.                                    |
 
 ### 6. Sincronizando com o Repositório Remoto
+[![Ver Página](https://img.shields.io/badge/Ver%20Página-FFFFFF?style=for-the-badge&logo=github&logoColor=000)](https://github.com/Daniel-da-Silva-Alves/Versionamento-de-codigo-com-Git-e-Github/blob/main/Arquivos/pagina_6.md)
 
 | Comando                                 | Descrição                                                    |
 |-----------------------------------------|--------------------------------------------------------------|
@@ -66,6 +73,7 @@
 | `git remote -v`                        | Exibe URLs dos repositórios remotos associados.              |
 
 ### 7. Gerenciamento de Commits
+[![Ver Página](https://img.shields.io/badge/Ver%20Página-FFFFFF?style=for-the-badge&logo=github&logoColor=000)](https://github.com/Daniel-da-Silva-Alves/Versionamento-de-codigo-com-Git-e-Github/blob/main/Arquivos/pagina_7.md)
 
 | Comando                                 | Descrição                                                    |
 |-----------------------------------------|--------------------------------------------------------------|
@@ -75,6 +83,7 @@
 | `git commit --amend`                    | Modifica o último commit.                                   |
 
 ### 8. Resolução de Conflitos
+[![Ver Página](https://img.shields.io/badge/Ver%20Página-FFFFFF?style=for-the-badge&logo=github&logoColor=000)](https://github.com/Daniel-da-Silva-Alves/Versionamento-de-codigo-com-Git-e-Github/blob/main/Arquivos/pagina_8.md)
 
 | Comando                                 | Descrição                                                    |
 |-----------------------------------------|--------------------------------------------------------------|
@@ -85,6 +94,7 @@
 | `git commit`                           | Cria um commit que inclui a resolução dos conflitos.        |
 
 ### 9. Outras Operações Úteis
+[![Ver Página](https://img.shields.io/badge/Ver%20Página-FFFFFF?style=for-the-badge&logo=github&logoColor=000)](https://github.com/Daniel-da-Silva-Alves/Versionamento-de-codigo-com-Git-e-Github/blob/main/Arquivos/pagina_9.md)
 
 | Comando                                 | Descrição                                                    |
 |-----------------------------------------|--------------------------------------------------------------|
